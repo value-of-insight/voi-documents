@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvoi_documents=self.webpackChunkvoi_documents||[]).push([[9786],{5380:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/voi-documents/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

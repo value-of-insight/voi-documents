@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvoi_documents=self.webpackChunkvoi_documents||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/voi-documents/blog","blogTitle":"Blog","authorsListPath":"/voi-documents/blog/authors"}')}}]);
