@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Título 1
 
-esta es una línea de prueba
+esta es una línea de prueba y fórmula matemática:
 
 $$
 f(x) = \cfrac{x^2}{\frac{1}{\sqrt{x}} + \frac{1}{\sqrt[3]{x}}}
@@ -30,7 +30,7 @@ Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new
 ### sub sub título 1.1.1
 
 - [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+  - When installing Node.js, you are recommended to check all checkboxes related **to dependencies.**
 
 ## sub título 1.2
 
