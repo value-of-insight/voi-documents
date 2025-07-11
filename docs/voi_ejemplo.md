@@ -53,7 +53,7 @@ for fruta in frutas:
 
 esto es **negrita**
 
-The classic template will automatically be added to your project after you run the command:
+The classic **template** will **automatically** be added to your project after you run the command:
 
 ```r
 library(data.table)  # Cargar la librería data.table
